@@ -16,9 +16,16 @@ I am an Aspiring Machine Learning Engineer. I completed my graduation in Compute
 </ul>  
 
 
+## Some of My work to showcase my Skills
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+
+
+
+<b>Python Solutiion of All the problems given in Cracking the coding interview Book</b>
+&nbsp I solved all the coding problems given in book named 'Cracking the coding Interview'. There are around 189 coding problem from Mid to Advance level
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
