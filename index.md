@@ -3,6 +3,20 @@
 ---
 I am an Aspiring Machine Learning Engineer. I completed my graduation in Computer Science & Engineering from UIET Kanpur in 2019. After Graduating I worked at TCS as a Network Engineer for 1.5 year. I have Machine Learning skills and good with python programming. Currently I am looking for a Job in Data Science field which suits my skills.
 
+## My Skills
+
+---
+<ul>
+  <li>Good with Programming Language(C++, Python) </li>
+  <li>Machine Learning Methods</li>
+  <li>Probability and statistics</li>
+  <li>Linguistic knowledge</li>
+  <li>statistical analysis </li>
+  <li>NLP Methods</li>
+</ul>  
+
+
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
