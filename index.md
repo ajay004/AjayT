@@ -23,8 +23,29 @@ I am an Aspiring Machine Learning Engineer. I completed my graduation in Compute
 
 
 
-###Python Solutiion of All the problems given in Cracking the coding interview Book<br><br>
-&nbsp I solved all the coding problems given in book named 'Cracking the coding Interview'. There are around 189 coding problem from Mid to Advance level
+<h2><b>Python Solutiion of All the problems given in Cracking the coding interview Book.</b></h2><br><br>
+<br><br>
+click <a>here</a> to check the Project
+
+<h2><b>Build my own Library with more than 200 functions to perform string related operations.</b></h2><br><br>
+<br><br>
+click <a>here</a> to check the Project
+
+<h2><b>Text Analysis on comments of famous youtubers videos </b></h2><br><br>
+<br>
+click <a>here</a> to check the Project
+
+<h2><b>Spam Ham Mail Classification Using SVM, Naive Bayes, KNN, Logistic Regression. </b></h2><br><br>
+<br>
+click <a>here</a> to check the Project
+
+<h2><b>Naive Bayes Classification on Donors Choose Dataset with Full preprocessing on raw data</b></h2><br>
+<br>
+click <a>here</a> to check the Project
+
+
+
+
 
 
 ---
