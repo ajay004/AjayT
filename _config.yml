@@ -1,11 +1,11 @@
-title: Ajay Trivedi # your name (or website title) here
-logo: "/images/105421462_2675907672684564_5066293733561783078_n.jpg?raw=true" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  CSE Engineer 
+  First description 
   <br><br>
-  Aspiring Machine Learning Engineer
+  Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  theme: jekyll-theme-minimal
+  
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
