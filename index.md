@@ -1,8 +1,7 @@
-## Portfolio
-
+## About Me
+I am an Aspiring Machine Learning Engineer. I completed my graduation in Computer Science & Engineering from UIET Kanpur in 2019. After Graduating I worked at TCS as a Network Engineer for 1.5 year. I have Machine Learning skills and good with python programming. Currently I am looking for a Job in Data Science field which suits my skills.
 ---
 
-### Category Name 1 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
